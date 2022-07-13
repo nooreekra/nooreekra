@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on big IT companies
 - 📫 How to reach me rakhymzhan.ff@gmail.com
 
+![image](https://user-images.githubusercontent.com/107566335/178784896-e700a795-30ae-4259-98a3-129e47f299ab.png)
 
 <!---
 nooreekra/nooreekra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
