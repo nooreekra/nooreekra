@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nooreekra, 23 y.o, 🇰🇿 ALA
+- 👋 Hi, I’m @nooreekra, 24 y.o, 🇰🇿 ALA
 - 👀 I’m interested in WebDev, Travelling and Cars
 - 🌱 I’m using JavaScript, React JS
 - 💞️ I’m looking to collaborate on companies with interest projects
